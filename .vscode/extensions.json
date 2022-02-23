@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "voorjaar.windicss-intellisense",
+    "dbaeumer.vscode-eslint",
+    "csstools.postcss",
+  ]
+}
