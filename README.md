@@ -1,26 +1,3 @@
-<h2 align="center">
-  Starter Template
-</h2>
-<br>
-
-## Features
-
-- ⚡️ [Vue 3](https://github.com/vuejs/vue-next), [Vite 2](https://github.com/vitejs/vite), [ESBuild](https://github.com/evanw/esbuild) - born with fastness
-
-- 📦 [Components auto importing](./src/components)
-
-- 🍍 [State Management via Pinia](https://pinia.esm.dev/)
-
-- 🎨 [Windi CSS](https://github.com/windicss/windicss) - next generation utility-first CSS framework
-
-- 🔥 Use the [new `<script setup>` syntax](https://github.com/vuejs/rfcs/pull/227)
-
-- 📥 [APIs auto importing](https://github.com/antfu/unplugin-auto-import) - use Composition API and others directly
-
-- 🦾 TypeScript, of course
-
-<br>
-
 ## Pre-packed
 
 ### UI Frameworks
